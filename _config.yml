@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7011258456578217
+  lightness: 0.32646562577242233
+  rhythmicContrast: 0.08562717447484258
+  saturation: 0.11562433597091837
+cta: {}
+layout_spectrum: 0.40842637014290906
+name: musclepaste
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.570430655213565

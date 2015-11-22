@@ -1,4 +1,20 @@
-analytics: {}
+name: musclepaste
+favicon: null
+layout_spectrum: 0.40842637014290906
+typography_spectrum: 0.570430655213565
+title: Muscle Paste - Sport Nutrition Made Easy
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#F7EDF0'
@@ -8,11 +24,9 @@ color:
     - '#F4F482'
   brandStrength: 0.7011258456578217
   lightness: 0.32646562577242233
-  rhythmicContrast: 0.08562717447484258
   saturation: 0.11562433597091837
-cta: {}
-layout_spectrum: 0.40842637014290906
-name: musclepaste
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.570430655213565
+  rhythmicContrast: 0.08562717447484258
+purpose:
+  - name: null
+    item: null
+    url: null
